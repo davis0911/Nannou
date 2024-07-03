@@ -1,0 +1,9 @@
+[package]
+name = "trial"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nannou="0.19"
+rand="0.8"
+cgmath="0.18"

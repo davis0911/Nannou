@@ -1,0 +1,11 @@
+[package]
+name = "playground"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nannou="0.19"
+hidapi = "2.6.1"
+plotters = "0.3.4"
+rand="0.8"
+serialport = "4.3.0"

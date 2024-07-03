@@ -1,0 +1,18 @@
+# Rust related files
+/target/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Generated files
+Cargo.lock
+*.rs.bk
+
+# Build artifacts
+debug/
+release/
+*.dSYM
+
+# Other tools
+/.rustc_info.json
