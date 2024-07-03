@@ -1,0 +1,2 @@
+The following program has been written using the nannou library of the rust programming language.
+It is used to represent the collision of two balls when they collide with each other.The balls collide based on the rules of conservation of momentum.

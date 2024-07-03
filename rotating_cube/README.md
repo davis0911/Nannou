@@ -1,0 +1,2 @@
+The following code has been written in the nannou library of the rust programming language.
+It displays a 3D cube rotating about the x and y axis. A GIF is attached to see the output of the written code.

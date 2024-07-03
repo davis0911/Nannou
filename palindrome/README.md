@@ -1,0 +1,1 @@
+The following code is used to find the palindrome of the numbers between 10 and 110 and the number of iterations it takes to do so. It does this by taking the reverse of the number and adding it to the number till a palindrome is found.

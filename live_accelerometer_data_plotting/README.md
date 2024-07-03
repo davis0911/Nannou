@@ -1,0 +1,2 @@
+The following code has been written using the nannou library of the rust programming language.
+It is used to take live data from the COM5 port and plot the accelerometer data based on the movement of the microbit.

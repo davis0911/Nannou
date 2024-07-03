@@ -1,0 +1,2 @@
+The following code has been written using the nannou library of the rust programming language.
+It is used to graphically represent the 3D accelerometer. This is done by converting each 3D vector to a 2D vector by applying appropriate transformation by converting the 3D base vectors to 2D base vectors.The data used has been taken using a bbc microbit while moving it around a particular axis.The accelerometer data and the GIF of the output of the program has been attached.

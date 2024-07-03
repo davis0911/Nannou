@@ -1,0 +1,1 @@
+The following code is used to find the perfect numbers from 1 to 10000 and print them. 

@@ -1,0 +1,2 @@
+The following code has been written using the nannou library of the rust programming language.
+The program draws a fractal tree using recursion and changes the branching angle based on the movement of the mouse on the computer screen. A GIF is attached to see the output of the written code.
